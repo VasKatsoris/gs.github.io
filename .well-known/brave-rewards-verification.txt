@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: google.com
+Token: 318d841bee3b7fcb3e9e68ce8adbc3875444cbb78fb3af8889a67134ada725bc
